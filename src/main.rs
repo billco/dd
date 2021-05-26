@@ -334,3 +334,4 @@ fn dmm(h: &Vec<Hour>, el: usize, start: usize, end: usize) -> (Daymm) {
     }
     Daymm{max:maxe,  min: mine}
 }
+
